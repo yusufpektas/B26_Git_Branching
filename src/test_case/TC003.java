@@ -2,7 +2,9 @@ package test_case;
 
 public class TC003 {
 
-    // FIRST LINES
+    // First lines
 
     // second line
+
+    // third line
 }
